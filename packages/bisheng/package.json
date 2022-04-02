@@ -71,7 +71,7 @@
     "@babel/preset-react": "^7.0.0",
     "autoprefixer": "^9.3.1",
     "babel-loader": "^8.0.0",
-    "babel-plugin-add-module-exports": "~0.2.1",
+    "babel-plugin-add-module-exports": "~0.3.3",
     "case-sensitive-paths-webpack-plugin": "^2.0.0",
     "commander": "^4.0.1",
     "css-loader": "^3.4.0",
